@@ -1,6 +1,7 @@
 # Library-Management-System
 
-GitHub:- 
+GitHub:- https://github.com/rajveersingh55u/Library.py.git
+
 Live:- https://rajveersingh55u.github.io/Library.py/
 
 This project is a classic Library Management System. The application is created using Python Programming Language. This application uses **Command Line Interface**. Most of the modules are Python's inbuilt modules apart from pwinput. The functionality of the librarian and the students are mentioned in the below bullet points. 
